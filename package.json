@@ -1,0 +1,19 @@
+{
+  "name": "json-traverser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/json-traverser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openjavascript/json-traverser.git"
+  },
+  "author": "908202921@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openjavascript/json-traverser/issues"
+  },
+  "homepage": "https://github.com/openjavascript/json-traverser#readme"
+}
